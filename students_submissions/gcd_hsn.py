@@ -20,7 +20,7 @@ def gcd(a: int, b: int) -> int:
     return gcdd
 
 
-    #Test Cases from hw assignment 2
+    #Test Cases from hw assignment #2
 print(gcd(54, 24)) 
 print(gcd(48, 18))  
 print(gcd(101, 10)) 
